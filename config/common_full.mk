@@ -9,7 +9,3 @@ include frameworks/base/data/sounds/AudioPackageNewWave.mk
 
 # Include CM audio files
 include vendor/cm/config/cm_audio.mk
-
-# Optional CM packages
-PRODUCT_PACKAGES += \
-    LiveWallpapers
