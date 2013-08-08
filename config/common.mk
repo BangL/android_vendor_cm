@@ -162,8 +162,7 @@ PRODUCT_PACKAGES += \
     audio_effects.conf \
     Apollo \
     CMFileManager \
-    LockClock \
-    PermissionsManager
+    LockClock
 
 PRODUCT_PACKAGES += \
     CellBroadcastReceiver
